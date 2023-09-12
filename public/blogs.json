@@ -7,7 +7,7 @@
         "author": "Alice Johnson",
         "posted_date": "2023-09-12",
         "reading_time": 25,
-        "hashtag": "#FantasyAdventure"
+        "hashtags": ["#FantasyAdventure"]
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "author": "Bob Smith",
         "posted_date": "2023-09-11",
         "reading_time": 30,
-        "hashtag": "#MysteryNovel"
+        "hashtags": ["#MysteryNovel"]
     },
     {
         "id": 3,
@@ -27,7 +27,7 @@
         "author": "Sam Parker",
         "posted_date": "2023-09-10",
         "reading_time": 20,
-        "hashtag": "#CrimeMystery"
+        "hashtags": ["#CrimeMystery"]
     },
     {
         "id": 4,
@@ -37,6 +37,6 @@
         "author": "Emily Wilson",
         "posted_date": "2023-09-09",
         "reading_time": 40,
-        "hashtag": "#ScienceFiction"
+        "hashtags": ["#ScienceFiction"]
     }
 ]
