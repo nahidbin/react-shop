@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/Xs59q9v/7676073.jpg",
+        "title": "The Enchanted Forest",
+        "author_img": "https://i.ibb.co/JKpDNCj/372022404-3584497391781792-4080609175086837134-n.jpg",
+        "author": "Alice Johnson",
+        "posted_date": "2023-09-12",
+        "reading_time": 25,
+        "hashtag": "#FantasyAdventure"
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/Xs59q9v/7676073.jpg",
+        "title": "Secrets of the Unknown",
+        "author_img": "https://i.ibb.co/JKpDNCj/372022404-3584497391781792-4080609175086837134-n.jpg",
+        "author": "Bob Smith",
+        "posted_date": "2023-09-11",
+        "reading_time": 30,
+        "hashtag": "#MysteryNovel"
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/Xs59q9v/7676073.jpg",
+        "title": "The Detective's Dilemma",
+        "author_img": "https://i.ibb.co/JKpDNCj/372022404-3584497391781792-4080609175086837134-n.jpg",
+        "author": "Sam Parker",
+        "posted_date": "2023-09-10",
+        "reading_time": 20,
+        "hashtag": "#CrimeMystery"
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/Xs59q9v/7676073.jpg",
+        "title": "Journey to the Stars",
+        "author_img": "https://i.ibb.co/JKpDNCj/372022404-3584497391781792-4080609175086837134-n.jpg",
+        "author": "Emily Wilson",
+        "posted_date": "2023-09-09",
+        "reading_time": 40,
+        "hashtag": "#ScienceFiction"
+    }
+]
