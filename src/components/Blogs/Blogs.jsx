@@ -30,7 +30,7 @@ const Blogs = ({handleAddToBookmark, handleMarkAsRead}) => {
 };
 
 Blogs.propTypes = {
-    handleAddToBookmark:PropTypes.func
+    handleAddToBookmark:PropTypes.func,
     handleMarkAsRead:PropTypes.func
 }
 
